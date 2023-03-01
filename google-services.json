@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580415427665",
+    "firebase_url": "https://my-firebase-project-652aa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-firebase-project-652aa",
+    "storage_bucket": "my-firebase-project-652aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580415427665:android:e8be34ef686caf97cbd470",
+        "android_client_info": {
+          "package_name": "edu.finki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580415427665-9gjhhaeaajkngh59nk70bq6mhr8qa0s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvX2MIca8gqBKYuTXsN36D17Wf0IX1Anc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580415427665-9gjhhaeaajkngh59nk70bq6mhr8qa0s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

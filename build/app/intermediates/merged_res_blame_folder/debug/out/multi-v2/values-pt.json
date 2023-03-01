@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\FINKI\\Semestar7\\MobilniIS\\lab3-193005\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bvask.DESKTOP-IDKFN7U\\.gradle\\caches\\transforms-2\\files-2.1\\28a3f75580eff70eeae4882581bc17c9\\browser-1.4.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bvask.DESKTOP-IDKFN7U\\.gradle\\caches\\transforms-2\\files-2.1\\d9ec951af19784586d74ec9518b5b352\\core-1.6.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "487",
+                        "endColumns": "100",
+                        "endOffsets": "583"
+                    }
+                }
+            ]
+        }
+    ]
+}
