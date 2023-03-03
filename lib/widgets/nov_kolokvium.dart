@@ -43,10 +43,11 @@ class _NovKolokvium extends State<NovKolokvium> {
 
     addItemToDB(listItem: newItem);
 
-    service.showNotification(
-        id: 0,
-        title: 'Додаден нов колоквиум',
-        body: '$naslov на $datum во $vreme',
+    service.scheduledNotification(
+      id: 0,
+      title: 'Потсетување!',
+      body: 'Денес имате колоквиум по $naslov во $vreme',
+      date: datum,
     );
 
     Navigator.pop(context);

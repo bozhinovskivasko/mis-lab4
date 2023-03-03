@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\FINKI\\Semestar7\\MobilniIS\\lab3-193005\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "outputFile": "D:\\FINKI\\Semestar7\\MobilniIS\\lab4-193005\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\bvask.DESKTOP-IDKFN7U\\.gradle\\caches\\transforms-2\\files-2.1\\843315bb0f30ec0c854241aff4da9ee8\\jetified-play-services-basement-18.1.0\\res\\values-eu\\values.xml",

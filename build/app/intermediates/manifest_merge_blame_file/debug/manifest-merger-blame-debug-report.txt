@@ -12,29 +12,29 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->D:\FINKI\Semestar7\MobilniIS\lab3-193005\android\app\src\debug\AndroidManifest.xml:6:5-66
-14-->D:\FINKI\Semestar7\MobilniIS\lab3-193005\android\app\src\debug\AndroidManifest.xml:6:22-64
+14-->D:\FINKI\Semestar7\MobilniIS\lab4-193005\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->D:\FINKI\Semestar7\MobilniIS\lab4-193005\android\app\src\debug\AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-15-->D:\FINKI\Semestar7\MobilniIS\lab3-193005\android\app\src\main\AndroidManifest.xml:3:5-81
-15-->D:\FINKI\Semestar7\MobilniIS\lab3-193005\android\app\src\main\AndroidManifest.xml:3:22-78
+15-->D:\FINKI\Semestar7\MobilniIS\lab4-193005\android\app\src\main\AndroidManifest.xml:3:5-81
+15-->D:\FINKI\Semestar7\MobilniIS\lab4-193005\android\app\src\main\AndroidManifest.xml:3:22-78
 16    <uses-permission android:name="android.permission.VIBRATE" />
-16-->D:\FINKI\Semestar7\MobilniIS\lab3-193005\android\app\src\main\AndroidManifest.xml:4:5-66
-16-->D:\FINKI\Semestar7\MobilniIS\lab3-193005\android\app\src\main\AndroidManifest.xml:4:22-63
+16-->D:\FINKI\Semestar7\MobilniIS\lab4-193005\android\app\src\main\AndroidManifest.xml:4:5-66
+16-->D:\FINKI\Semestar7\MobilniIS\lab4-193005\android\app\src\main\AndroidManifest.xml:4:22-63
 17    <uses-permission android:name="android.permission.WAKE_LOCK" />
-17-->D:\FINKI\Semestar7\MobilniIS\lab3-193005\android\app\src\main\AndroidManifest.xml:5:5-68
-17-->D:\FINKI\Semestar7\MobilniIS\lab3-193005\android\app\src\main\AndroidManifest.xml:5:22-65
+17-->D:\FINKI\Semestar7\MobilniIS\lab4-193005\android\app\src\main\AndroidManifest.xml:5:5-68
+17-->D:\FINKI\Semestar7\MobilniIS\lab4-193005\android\app\src\main\AndroidManifest.xml:5:22-65
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permissions options for the `notification` group -->
-18-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
-18-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-76
+18-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+18-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-76
 19    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-19-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-77
-19-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-74
+19-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-77
+19-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-74
 20    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
-20-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
-20-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+20-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+20-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
 21    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-21-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
-21-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-76
+21-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+21-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-76
 22    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 22-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\bvask.DESKTOP-IDKFN7U\.gradle\caches\transforms-2\files-2.1\5bbc5a82b92fdd137485b303ff3fe97c\jetified-firebase-iid-21.1.0\AndroidManifest.xml:26:5-82
 22-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\bvask.DESKTOP-IDKFN7U\.gradle\caches\transforms-2\files-2.1\5bbc5a82b92fdd137485b303ff3fe97c\jetified-firebase-iid-21.1.0\AndroidManifest.xml:26:22-79
@@ -87,37 +87,37 @@
 66            android:value="2" />
 67
 68        <service
-68-->[:firebase_auth] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+68-->[:firebase_auth] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 69            android:name="com.google.firebase.components.ComponentDiscoveryService"
-69-->[:firebase_auth] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+69-->[:firebase_auth] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
 70            android:directBootAware="true"
 70-->[com.google.firebase:firebase-common:20.3.0] C:\Users\bvask.DESKTOP-IDKFN7U\.gradle\caches\transforms-2\files-2.1\62b86a9d9cd4e5a20259d6eb3c27e7b2\jetified-firebase-common-20.3.0\AndroidManifest.xml:34:13-43
 71            android:exported="false" >
 71-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\bvask.DESKTOP-IDKFN7U\.gradle\caches\transforms-2\files-2.1\5bbc5a82b92fdd137485b303ff3fe97c\jetified-firebase-iid-21.1.0\AndroidManifest.xml:31:13-37
 72            <meta-data
-72-->[:firebase_auth] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+72-->[:firebase_auth] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 73                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-73-->[:firebase_auth] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+73-->[:firebase_auth] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
 74                android:value="com.google.firebase.components.ComponentRegistrar" />
-74-->[:firebase_auth] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+74-->[:firebase_auth] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 75            <meta-data
-75-->[:cloud_firestore] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+75-->[:cloud_firestore] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 76                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-76-->[:cloud_firestore] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+76-->[:cloud_firestore] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
 77                android:value="com.google.firebase.components.ComponentRegistrar" />
-77-->[:cloud_firestore] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+77-->[:cloud_firestore] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 78            <meta-data
-78-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-38:85
+78-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-38:85
 79                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-79-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:37:17-128
+79-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:37:17-128
 80                android:value="com.google.firebase.components.ComponentRegistrar" />
-80-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:38:17-82
+80-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:38:17-82
 81            <meta-data
-81-->[:firebase_core] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+81-->[:firebase_core] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 82                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-82-->[:firebase_core] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+82-->[:firebase_core] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
 83                android:value="com.google.firebase.components.ComponentRegistrar" />
-83-->[:firebase_core] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+83-->[:firebase_core] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 84            <meta-data
 84-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\bvask.DESKTOP-IDKFN7U\.gradle\caches\transforms-2\files-2.1\5bbc5a82b92fdd137485b303ff3fe97c\jetified-firebase-iid-21.1.0\AndroidManifest.xml:32:13-34:85
 85                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
@@ -156,86 +156,86 @@
 101-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\bvask.DESKTOP-IDKFN7U\.gradle\caches\transforms-2\files-2.1\810b05b1d7f36a8be4c28d8b47e2e849\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
 102        </service>
 103        <service
-103-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-17:72
+103-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-17:72
 104            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-104-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-107
+104-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-107
 105            android:exported="false"
-105-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
+105-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
 106            android:permission="android.permission.BIND_JOB_SERVICE" />
-106-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-69
+106-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-69
 107        <service
-107-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-24:19
+107-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-24:19
 108            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-108-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-97
+108-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-97
 109            android:exported="false" >
-109-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-37
+109-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-37
 110            <intent-filter>
-110-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-23:29
+110-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-23:29
 111                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-111-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:22:17-78
-111-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:22:25-75
+111-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:22:17-78
+111-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:22:25-75
 112            </intent-filter>
 113        </service>
 114
 115        <receiver
-115-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:26:9-33:20
+115-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:26:9-33:20
 116            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-116-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-98
+116-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-98
 117            android:exported="true"
-117-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-36
+117-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-36
 118            android:permission="com.google.android.c2dm.permission.SEND" >
-118-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-73
+118-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-73
 119            <intent-filter>
-119-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-32:29
+119-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-32:29
 120                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-120-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:31:17-81
-120-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:31:25-78
+120-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:31:17-81
+120-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:31:25-78
 121            </intent-filter>
 122        </receiver>
 123
 124        <provider
-124-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:41:9-45:38
+124-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:41:9-45:38
 125            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-125-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-102
+125-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-102
 126            android:authorities="edu.finki.flutterfirebasemessaginginitprovider"
-126-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-88
+126-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-88
 127            android:exported="false"
-127-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-37
+127-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-37
 128            android:initOrder="99" />
-128-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:45:13-35
+128-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:45:13-35
 129
 130        <receiver
-130-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-16:40
+130-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-16:40
 131            android:name="com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver"
-131-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-91
+131-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-91
 132            android:exported="false" />
-132-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
+132-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
 133        <receiver
-133-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-19:40
+133-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-19:40
 134            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver"
-134-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-97
+134-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-97
 135            android:exported="false" />
-135-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-37
+135-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-37
 136        <receiver
-136-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:20:9-29:20
+136-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:20:9-29:20
 137            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver"
-137-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-101
+137-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-101
 138            android:exported="false" >
-138-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-37
+138-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-37
 139            <intent-filter>
-139-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-28:29
+139-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-28:29
 140                <action android:name="android.intent.action.BOOT_COMPLETED" />
-140-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:24:17-79
-140-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:24:25-76
+140-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:24:17-79
+140-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:24:25-76
 141                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
-141-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-84
-141-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:25:25-81
+141-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-84
+141-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:25:25-81
 142                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-142-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-82
-142-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:26:25-79
+142-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-82
+142-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:26:25-79
 143                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
-143-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:27:17-82
-143-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:27:25-79
+143-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:27:17-82
+143-->[:flutter_local_notifications] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:27:25-79
 144            </intent-filter>
 145        </receiver>
 146
@@ -332,10 +332,10 @@
 194            android:permission="com.google.android.c2dm.permission.SEND" >
 194-->[com.google.firebase:firebase-messaging:23.1.1] C:\Users\bvask.DESKTOP-IDKFN7U\.gradle\caches\transforms-2\files-2.1\b4c2e753f5a395253305a182fea343e2\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:34:13-73
 195            <intent-filter>
-195-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-32:29
+195-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-32:29
 196                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-196-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:31:17-81
-196-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:31:25-78
+196-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:31:17-81
+196-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:31:25-78
 197            </intent-filter>
 198        </receiver>
 199        <!--
@@ -351,10 +351,10 @@
 206            android:exported="false" >
 206-->[com.google.firebase:firebase-messaging:23.1.1] C:\Users\bvask.DESKTOP-IDKFN7U\.gradle\caches\transforms-2\files-2.1\b4c2e753f5a395253305a182fea343e2\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:47:13-37
 207            <intent-filter android:priority="-500" >
-207-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-23:29
+207-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-23:29
 208                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-208-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:22:17-78
-208-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab3-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:22:25-75
+208-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:22:17-78
+208-->[:firebase_messaging] D:\FINKI\Semestar7\MobilniIS\lab4-193005\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:22:25-75
 209            </intent-filter>
 210        </service>
 211

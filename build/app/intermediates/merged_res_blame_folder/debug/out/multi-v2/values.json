@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\FINKI\\Semestar7\\MobilniIS\\lab3-193005\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\FINKI\\Semestar7\\MobilniIS\\lab4-193005\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\bvask.DESKTOP-IDKFN7U\\.gradle\\caches\\transforms-2\\files-2.1\\28a3f75580eff70eeae4882581bc17c9\\browser-1.4.0\\res\\values\\values.xml",
@@ -21,22 +21,20 @@
                     }
                 },
                 {
-                    "source": "D:\\FINKI\\Semestar7\\MobilniIS\\lab3-193005\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\FINKI\\Semestar7\\MobilniIS\\lab4-193005\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,821",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "472,987"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,351,433,537,646,766,875",
+                        "endColumns": "143,151,81,103,108,119,108,85",
+                        "endOffsets": "194,346,428,532,641,761,870,956"
                     },
                     "to": {
-                        "startLines": "147,152",
-                        "startColumns": "4,4",
-                        "startOffsets": "10752,11049",
-                        "endLines": "151,154",
-                        "endColumns": "12,12",
-                        "endOffsets": "11044,11213"
+                        "startLines": "134,139,140,141,142,143,144,145",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "9478,9919,10071,10153,10257,10366,10486,10595",
+                        "endColumns": "143,151,81,103,108,119,108,85",
+                        "endOffsets": "9617,10066,10148,10252,10361,10481,10590,10676"
                     }
                 },
                 {
@@ -56,23 +54,6 @@
                         "endLines": "17,18,19,20,21,22,23,24,115,116,117,118,119,120,121,122,124,125,126,127,128,129,130,131,132,335,354",
                         "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
                         "endOffsets": "995,1075,1165,1255,1335,1416,1496,1576,7177,7358,7483,7590,7770,7893,8009,8112,8467,8572,8753,8878,9053,9201,9264,9326,9405,21659,22076"
-                    }
-                },
-                {
-                    "source": "D:\\FINKI\\Semestar7\\MobilniIS\\lab3-193005\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,351,433,537,646,766,875",
-                        "endColumns": "143,151,81,103,108,119,108,85",
-                        "endOffsets": "194,346,428,532,641,761,870,956"
-                    },
-                    "to": {
-                        "startLines": "134,139,140,141,142,143,144,145",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "9478,9919,10071,10153,10257,10366,10486,10595",
-                        "endColumns": "143,151,81,103,108,119,108,85",
-                        "endOffsets": "9617,10066,10148,10252,10361,10481,10590,10676"
                     }
                 },
                 {
@@ -109,6 +90,25 @@
                         "startOffsets": "6939,8117",
                         "endColumns": "67,166",
                         "endOffsets": "7002,8279"
+                    }
+                },
+                {
+                    "source": "D:\\FINKI\\Semestar7\\MobilniIS\\lab4-193005\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,821",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,987"
+                    },
+                    "to": {
+                        "startLines": "147,152",
+                        "startColumns": "4,4",
+                        "startOffsets": "10752,11049",
+                        "endLines": "151,154",
+                        "endColumns": "12,12",
+                        "endOffsets": "11044,11213"
                     }
                 },
                 {
